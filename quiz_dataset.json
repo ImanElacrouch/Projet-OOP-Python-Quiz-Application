@@ -1,0 +1,1389 @@
+[
+    {
+        "question": "What is the derivative of x²?",
+        "choices": ["2x", "x", "x²", "x/2"],
+        "correct": ["2x"],
+        "mode": "single",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of the following are Python data types?",
+        "choices": ["list", "set", "loop", "tuple"],
+        "correct": ["list", "set", "tuple"],
+        "mode": "multiple",
+        "tags": ["datascience", "programming"]
+    },
+    {
+        "question": "What does GDP stand for?",
+        "choices": ["Gross Domestic Product", "General Domestic Product", "Global Development Plan", "Government Development Policy"],
+        "correct": ["Gross Domestic Product"],
+        "mode": "single",
+        "tags": ["finance", "economics"]
+    },
+    {
+        "question": "Which planets are gas giants?",
+        "choices": ["Earth", "Jupiter", "Mars", "Saturn"],
+        "correct": ["Jupiter", "Saturn"],
+        "mode": "multiple",
+        "tags": ["physics", "astronomy"]
+    },
+    {
+        "question": "Which library is commonly used for data analysis in Python?",
+        "choices": ["pandas", "matplotlib", "numpy", "scikit-learn"],
+        "correct": ["pandas"],
+        "mode": "single",
+        "tags": ["datascience", "programming"]
+    },
+    {
+        "question": "Which of these numbers are prime?",
+        "choices": ["2", "4", "7", "9"],
+        "correct": ["2", "7"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "In finance, what is ROI?",
+        "choices": ["Rate of Interest", "Return on Investment", "Revenue over Income", "Risk of Investment"],
+        "correct": ["Return on Investment"],
+        "mode": "single",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which of the following are supervised learning algorithms?",
+        "choices": ["Linear Regression", "KMeans", "Decision Trees", "DBSCAN"],
+        "correct": ["Linear Regression", "Decision Trees"],
+        "mode": "multiple",
+        "tags": ["datascience", "machinelearning"]
+    },
+
+    {
+        "question": "What is the value of π (pi) approximately?",
+        "choices": ["3.14", "2.72", "1.62", "3.41"],
+        "correct": ["3.14"],
+        "mode": "single",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of the following are irrational numbers?",
+        "choices": ["√2", "3", "π", "1/2"],
+        "correct": ["√2", "π"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Solve for x: 2x + 5 = 13",
+        "choices": ["4", "5", "6", "3"],
+        "correct": ["4"],
+        "mode": "single",
+        "tags": ["math", "algebra"]
+    },
+    {
+        "question": "Which of these are perfect squares?",
+        "choices": ["4", "9", "12", "16"],
+        "correct": ["4", "9", "16"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of these are vector quantities?",
+        "choices": ["Velocity", "Speed", "Acceleration", "Distance"],
+        "correct": ["Velocity", "Acceleration"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "What is Newton's second law?",
+        "choices": ["F = ma", "E = mc²", "V = IR", "p = mv"],
+        "correct": ["F = ma"],
+        "mode": "single",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which are SI units of force?",
+        "choices": ["Newton", "Joule", "Pascal", "Dyne"],
+        "correct": ["Newton", "Dyne"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which phenomena are examples of wave behavior?",
+        "choices": ["Interference", "Refraction", "Diffraction", "Gravity"],
+        "correct": ["Interference", "Diffraction", "Refraction"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "The law of conservation of energy states that energy cannot be:",
+        "choices": ["Created", "Destroyed", "Transferred", "Transformed"],
+        "correct": ["Created", "Destroyed"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are Python loops?",
+        "choices": ["for", "while", "repeat", "do-while"],
+        "correct": ["for", "while"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which are valid Python variable names?",
+        "choices": ["my_var", "2var", "varName", "_var"],
+        "correct": ["my_var", "varName", "_var"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are machine learning tasks?",
+        "choices": ["Classification", "Regression", "Clustering", "Compilation"],
+        "correct": ["Classification", "Regression", "Clustering"],
+        "mode": "multiple",
+        "tags": ["datascience", "machinelearning"]
+    },
+    {
+        "question": "Which are Python web frameworks?",
+        "choices": ["Django", "Flask", "NumPy", "Pandas"],
+        "correct": ["Django", "Flask"],
+        "mode": "multiple",
+        "tags": ["programming", "datascience"]
+    },
+    {
+        "question": "Which are Python immutable types?",
+        "choices": ["tuple", "list", "str", "set"],
+        "correct": ["tuple", "str"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which are common types of bonds?",
+        "choices": ["Corporate", "Government", "Municipal", "Derivative"],
+        "correct": ["Corporate", "Government", "Municipal"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which of the following are financial ratios?",
+        "choices": ["P/E ratio", "ROI", "Liquidity ratio", "GDP"],
+        "correct": ["P/E ratio", "ROI", "Liquidity ratio"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "What is inflation?",
+        "choices": ["Increase in prices", "Decrease in money supply", "Economic growth", "Deflation"],
+        "correct": ["Increase in prices"],
+        "mode": "single",
+        "tags": ["finance", "economics"]
+    },
+    {
+        "question": "Which are types of stock orders?",
+        "choices": ["Market order", "Limit order", "Stop order", "Bond order"],
+        "correct": ["Market order", "Limit order", "Stop order"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which of these are programming paradigms?",
+        "choices": ["Object-oriented", "Functional", "Procedural", "Declarative", "Mechanical"],
+        "correct": ["Object-oriented", "Functional", "Procedural", "Declarative"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are types of clouds?",
+        "choices": ["Cumulus", "Stratus", "Nimbus", "Cirrus", "Fog"],
+        "correct": ["Cumulus", "Stratus", "Nimbus", "Cirrus"],
+        "mode": "multiple",
+        "tags": ["physics", "general"]
+    },
+    {
+        "question": "Which are renewable energy sources?",
+        "choices": ["Solar", "Wind", "Coal", "Hydro", "Natural Gas"],
+        "correct": ["Solar", "Wind", "Hydro"],
+        "mode": "multiple",
+        "tags": ["physics", "environment"]
+    },
+    {
+        "question": "Which of these are common database types?",
+        "choices": ["SQL", "NoSQL", "Graph", "JSON", "CSV"],
+        "correct": ["SQL", "NoSQL", "Graph"],
+        "mode": "multiple",
+        "tags": ["datascience", "programming"]
+    },
+    {
+        "question": "Which countries are part of G7?",
+        "choices": ["USA", "UK", "Germany", "India", "Japan", "Canada"],
+        "correct": ["USA", "UK", "Germany", "Japan", "Canada"],
+        "mode": "multiple",
+        "tags": ["finance", "economics"]
+    },
+    {
+        "question": "What is the solution to the equation x² - 9 = 0?",
+        "choices": ["3", "-3", "0", "±3"],
+        "correct": ["±3"],
+        "mode": "single",
+        "tags": ["math", "algebra"]
+    },
+    {
+        "question": "Which of the following are factors of 12?",
+        "choices": ["1", "2", "3", "4", "6", "12", "5"],
+        "correct": ["1", "2", "3", "4", "6", "12"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of these are types of angles?",
+        "choices": ["Acute", "Obtuse", "Right", "Straight", "Parallel"],
+        "correct": ["Acute", "Obtuse", "Right", "Straight"],
+        "mode": "multiple",
+        "tags": ["math", "geometry"]
+    },
+    {
+        "question": "Which of the following are scalar quantities?",
+        "choices": ["Mass", "Velocity", "Speed", "Force", "Temperature"],
+        "correct": ["Mass", "Speed", "Temperature"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these laws are part of classical mechanics?",
+        "choices": ["Newton's laws", "Hooke's law", "Ohm's law", "Law of gravitation"],
+        "correct": ["Newton's laws", "Hooke's law", "Law of gravitation"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of the following are electromagnetic waves?",
+        "choices": ["Radio", "X-rays", "Sound", "Gamma rays", "Water waves"],
+        "correct": ["Radio", "X-rays", "Gamma rays"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are Python collection types?",
+        "choices": ["List", "Tuple", "Set", "Dictionary", "Loop"],
+        "correct": ["List", "Tuple", "Set", "Dictionary"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which Python statements are used for conditional branching?",
+        "choices": ["if", "else", "elif", "for"],
+        "correct": ["if", "else", "elif"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are supervised machine learning algorithms?",
+        "choices": ["Random Forest", "K-Means", "SVM", "DBSCAN", "Linear Regression"],
+        "correct": ["Random Forest", "SVM", "Linear Regression"],
+        "mode": "multiple",
+        "tags": ["datascience", "machinelearning"]
+    },
+    {
+        "question": "Which of these are Python built-in functions?",
+        "choices": ["print", "len", "sum", "plot", "read"],
+        "correct": ["print", "len", "sum"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are common types of data visualization?",
+        "choices": ["Histogram", "Bar chart", "Scatter plot", "Linear regression", "Pie chart"],
+        "correct": ["Histogram", "Bar chart", "Scatter plot", "Pie chart"],
+        "mode": "multiple",
+        "tags": ["datascience"]
+    },
+    {
+        "question": "Which are types of financial markets?",
+        "choices": ["Stock market", "Bond market", "Money market", "Commodity market", "Weather market"],
+        "correct": ["Stock market", "Bond market", "Money market", "Commodity market"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which of these are types of investment risk?",
+        "choices": ["Market risk", "Credit risk", "Liquidity risk", "Operational risk", "Profit risk"],
+        "correct": ["Market risk", "Credit risk", "Liquidity risk", "Operational risk"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which are common components of GDP?",
+        "choices": ["Consumption", "Investment", "Government spending", "Net exports", "Inflation"],
+        "correct": ["Consumption", "Investment", "Government spending", "Net exports"],
+        "mode": "multiple",
+        "tags": ["finance", "economics"]
+    },
+    {
+        "question": "Which of these are types of taxes?",
+        "choices": ["Income tax", "Sales tax", "Property tax", "Corporate tax", "Salary"],
+        "correct": ["Income tax", "Sales tax", "Property tax", "Corporate tax"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which of these are planets in our solar system?",
+        "choices": ["Earth", "Pluto", "Mars", "Venus", "Moon"],
+        "correct": ["Earth", "Mars", "Venus", "Pluto"],
+        "mode": "multiple",
+        "tags": ["general", "astronomy"]
+    },
+    {
+        "question": "Which are programming paradigms?",
+        "choices": ["Procedural", "Object-Oriented", "Functional", "Logical", "Mechanical"],
+        "correct": ["Procedural", "Object-Oriented", "Functional", "Logical"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are renewable resources?",
+        "choices": ["Coal", "Solar", "Wind", "Oil", "Hydropower"],
+        "correct": ["Solar", "Wind", "Hydropower"],
+        "mode": "multiple",
+        "tags": ["environment", "general"]
+    },
+    {
+        "question": "Which of these are continents?",
+        "choices": ["Africa", "Asia", "Europe", "Greenland", "Australia"],
+        "correct": ["Africa", "Asia", "Europe", "Australia"],
+        "mode": "multiple",
+        "tags": ["general", "geography"]
+    },
+    {
+        "question": "Which of these are programming languages?",
+        "choices": ["Python", "HTML", "Java", "CSS", "C++"],
+        "correct": ["Python", "Java", "C++"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of the following are solutions to x² - 4x + 3 = 0?",
+        "choices": ["1", "3", "4", "0"],
+        "correct": ["1", "3"],
+        "mode": "multiple",
+        "tags": ["math", "algebra"]
+    },
+    {
+        "question": "Which of the following are types of triangles?",
+        "choices": ["Equilateral", "Isosceles", "Scalene", "Quadrilateral"],
+        "correct": ["Equilateral", "Isosceles", "Scalene"],
+        "mode": "multiple",
+        "tags": ["math", "geometry"]
+    },
+    {
+        "question": "What is the square root of 81?",
+        "choices": ["9", "8", "-9", "3"],
+        "correct": ["9", "-9"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of the following are fundamental particles?",
+        "choices": ["Electron", "Proton", "Neutron", "Quark", "Photon"],
+        "correct": ["Electron", "Quark", "Photon"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are examples of renewable energy?",
+        "choices": ["Solar", "Wind", "Nuclear", "Coal", "Hydropower"],
+        "correct": ["Solar", "Wind", "Hydropower"],
+        "mode": "multiple",
+        "tags": ["physics", "environment"]
+    },
+    {
+        "question": "Which quantities are measured in meters per second (m/s)?",
+        "choices": ["Velocity", "Acceleration", "Speed", "Distance"],
+        "correct": ["Velocity", "Speed"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are immutable types in Python?",
+        "choices": ["String", "Tuple", "List", "Set", "Integer"],
+        "correct": ["String", "Tuple", "Integer"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of the following are Python logical operators?",
+        "choices": ["and", "or", "not", "xor", "&&"],
+        "correct": ["and", "or", "not"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are common Python data visualization libraries?",
+        "choices": ["Matplotlib", "Seaborn", "Plotly", "Pandas", "NumPy"],
+        "correct": ["Matplotlib", "Seaborn", "Plotly"],
+        "mode": "multiple",
+        "tags": ["datascience"]
+    },
+    {
+        "question": "Which of these are unsupervised learning algorithms?",
+        "choices": ["K-Means", "Hierarchical Clustering", "Linear Regression", "Decision Trees"],
+        "correct": ["K-Means", "Hierarchical Clustering"],
+        "mode": "multiple",
+        "tags": ["datascience", "machinelearning"]
+    },
+    {
+        "question": "Which are key indicators of economic health?",
+        "choices": ["GDP", "Inflation", "Unemployment rate", "Weather forecast"],
+        "correct": ["GDP", "Inflation", "Unemployment rate"],
+        "mode": "multiple",
+        "tags": ["finance", "economics"]
+    },
+    {
+        "question": "Which are types of bank accounts?",
+        "choices": ["Savings account", "Checking account", "Fixed deposit", "Credit card"],
+        "correct": ["Savings account", "Checking account", "Fixed deposit"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which are common financial instruments?",
+        "choices": ["Stocks", "Bonds", "Options", "Derivatives", "Furniture"],
+        "correct": ["Stocks", "Bonds", "Options", "Derivatives"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which of these are natural satellites of planets?",
+        "choices": ["Moon", "Phobos", "Europa", "Sun", "Titan"],
+        "correct": ["Moon", "Phobos", "Europa", "Titan"],
+        "mode": "multiple",
+        "tags": ["general", "astronomy"]
+    },
+    {
+        "question": "Which are types of clouds in computing?",
+        "choices": ["Public", "Private", "Hybrid", "Stratus", "Cumulus"],
+        "correct": ["Public", "Private", "Hybrid"],
+        "mode": "multiple",
+        "tags": ["datascience", "computing"]
+    },
+    {
+        "question": "Which of these countries are in the European Union?",
+        "choices": ["Germany", "France", "Norway", "Italy", "Switzerland"],
+        "correct": ["Germany", "France", "Italy"],
+        "mode": "multiple",
+        "tags": ["general", "geography"]
+    },
+    {
+        "question": "Which of the following are programming languages?",
+        "choices": ["Python", "JavaScript", "HTML", "C#", "CSS"],
+        "correct": ["Python", "JavaScript", "C#"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are planets with rings?",
+        "choices": ["Saturn", "Jupiter", "Earth", "Uranus", "Mars"],
+        "correct": ["Saturn", "Jupiter", "Uranus"],
+        "mode": "multiple",
+        "tags": ["general", "astronomy"]
+    },
+    {
+        "question": "Which of the following are types of quadrilaterals?",
+        "choices": ["Square", "Rectangle", "Rhombus", "Trapezoid", "Triangle"],
+        "correct": ["Square", "Rectangle", "Rhombus", "Trapezoid"],
+        "mode": "multiple",
+        "tags": ["math", "geometry"]
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle?",
+        "choices": ["180°", "90°", "360°", "270°"],
+        "correct": ["180°"],
+        "mode": "single",
+        "tags": ["math", "geometry"]
+    },
+    {
+        "question": "Which of these are prime numbers less than 20?",
+        "choices": ["2", "3", "5", "7", "9", "11", "13", "17", "19"],
+        "correct": ["2", "3", "5", "7", "11", "13", "17", "19"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of the following are types of energy?",
+        "choices": ["Kinetic", "Potential", "Thermal", "Magnetic", "Pressure"],
+        "correct": ["Kinetic", "Potential", "Thermal", "Magnetic"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are properties of waves?",
+        "choices": ["Amplitude", "Frequency", "Wavelength", "Velocity", "Density"],
+        "correct": ["Amplitude", "Frequency", "Wavelength", "Velocity"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which are types of simple machines?",
+        "choices": ["Lever", "Pulley", "Inclined plane", "Wheel and axle", "Spring"],
+        "correct": ["Lever", "Pulley", "Inclined plane", "Wheel and axle"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are Python comparison operators?",
+        "choices": ["==", "!=", ">", "<", "=", "==="],
+        "correct": ["==", "!=", ">", "<"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are data preprocessing steps in machine learning?",
+        "choices": ["Normalization", "Standardization", "One-hot encoding", "Model fitting"],
+        "correct": ["Normalization", "Standardization", "One-hot encoding"],
+        "mode": "multiple",
+        "tags": ["datascience", "machinelearning"]
+    },
+    {
+        "question": "Which Python statements are used for loops?",
+        "choices": ["for", "while", "do-while", "repeat"],
+        "correct": ["for", "while"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of the following are common Python string methods?",
+        "choices": ["split", "join", "append", "replace", "find"],
+        "correct": ["split", "join", "replace", "find"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are types of financial statements?",
+        "choices": ["Income statement", "Balance sheet", "Cash flow statement", "Profit ledger"],
+        "correct": ["Income statement", "Balance sheet", "Cash flow statement"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which of the following are types of investment?",
+        "choices": ["Stocks", "Bonds", "Real estate", "Mutual funds", "Savings account"],
+        "correct": ["Stocks", "Bonds", "Real estate", "Mutual funds"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which are common types of taxes?",
+        "choices": ["Income tax", "Sales tax", "Property tax", "Corporate tax", "Import duty"],
+        "correct": ["Income tax", "Sales tax", "Property tax", "Corporate tax", "Import duty"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which of these are planets in the solar system?",
+        "choices": ["Mercury", "Venus", "Earth", "Mars", "Pluto", "Jupiter", "Saturn", "Neptune"],
+        "correct": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Neptune"],
+        "mode": "multiple",
+        "tags": ["general", "astronomy"]
+    },
+    {
+        "question": "Which of these are programming paradigms?",
+        "choices": ["Procedural", "Object-Oriented", "Functional", "Logical", "Event-driven", "Mechanical"],
+        "correct": ["Procedural", "Object-Oriented", "Functional", "Logical", "Event-driven"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which are renewable sources of energy?",
+        "choices": ["Solar", "Wind", "Coal", "Natural gas", "Hydropower", "Geothermal"],
+        "correct": ["Solar", "Wind", "Hydropower", "Geothermal"],
+        "mode": "multiple",
+        "tags": ["environment", "general"]
+    },
+    {
+        "question": "Which countries are part of the G20?",
+        "choices": ["USA", "India", "Germany", "France", "Brazil", "Norway", "Japan", "South Africa"],
+        "correct": ["USA", "India", "Germany", "France", "Brazil", "Japan", "South Africa"],
+        "mode": "multiple",
+        "tags": ["general", "finance", "economics"]
+    },
+    {
+        "question": "Which of the following are elements of a computer?",
+        "choices": ["CPU", "RAM", "Hard drive", "Monitor", "Printer"],
+        "correct": ["CPU", "RAM", "Hard drive", "Monitor", "Printer"],
+        "mode": "multiple",
+        "tags": ["programming", "computing"]
+    },
+    {
+        "question": "Which of the following are even numbers?",
+        "choices": ["1", "2", "3", "4", "5", "6", "7", "8"],
+        "correct": ["2", "4", "6", "8"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of these are solutions to the equation x² - 1 = 0?",
+        "choices": ["0", "1", "-1", "2"],
+        "correct": ["1", "-1"],
+        "mode": "multiple",
+        "tags": ["math", "algebra"]
+    },
+    {
+        "question": "Which of the following are types of polygons?",
+        "choices": ["Triangle", "Square", "Rectangle", "Circle", "Pentagon", "Hexagon"],
+        "correct": ["Triangle", "Square", "Rectangle", "Pentagon", "Hexagon"],
+        "mode": "multiple",
+        "tags": ["math", "geometry"]
+    },
+    {
+        "question": "Which of the following are fundamental forces?",
+        "choices": ["Gravitational", "Electromagnetic", "Strong nuclear", "Weak nuclear", "Frictional"],
+        "correct": ["Gravitational", "Electromagnetic", "Strong nuclear", "Weak nuclear"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are units of pressure?",
+        "choices": ["Pascal", "Bar", "Newton", "Atmosphere"],
+        "correct": ["Pascal", "Bar", "Atmosphere"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of the following are types of simple harmonic motion?",
+        "choices": ["Pendulum", "Mass-spring system", "Projectile motion", "Circular motion"],
+        "correct": ["Pendulum", "Mass-spring system"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which Python libraries are used for numerical computations?",
+        "choices": ["NumPy", "Pandas", "Matplotlib", "SciPy"],
+        "correct": ["NumPy", "SciPy"],
+        "mode": "multiple",
+        "tags": ["datascience", "programming"]
+    },
+    {
+        "question": "Which of the following are Python keywords?",
+        "choices": ["if", "else", "while", "for", "switch", "def"],
+        "correct": ["if", "else", "while", "for", "def"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which are Python data structures?",
+        "choices": ["List", "Tuple", "Set", "Dictionary", "Queue"],
+        "correct": ["List", "Tuple", "Set", "Dictionary"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are supervised learning algorithms?",
+        "choices": ["Linear Regression", "Decision Tree", "K-Means", "DBSCAN", "Random Forest"],
+        "correct": ["Linear Regression", "Decision Tree", "Random Forest"],
+        "mode": "multiple",
+        "tags": ["datascience", "machinelearning"]
+    },
+    {
+        "question": "Which of these are unsupervised learning algorithms?",
+        "choices": ["K-Means", "DBSCAN", "Linear Regression", "Decision Tree", "Hierarchical Clustering"],
+        "correct": ["K-Means", "DBSCAN", "Hierarchical Clustering"],
+        "mode": "multiple",
+        "tags": ["datascience", "machinelearning"]
+    },
+    {
+        "question": "Which are types of financial markets?",
+        "choices": ["Stock Market", "Bond Market", "Commodity Market", "Money Market", "Weather Market"],
+        "correct": ["Stock Market", "Bond Market", "Commodity Market", "Money Market"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which are common components of GDP?",
+        "choices": ["Consumption", "Investment", "Government Spending", "Net Exports", "Imports"],
+        "correct": ["Consumption", "Investment", "Government Spending", "Net Exports"],
+        "mode": "multiple",
+        "tags": ["finance", "economics"]
+    },
+    {
+        "question": "Which of these are types of taxes?",
+        "choices": ["Income Tax", "Corporate Tax", "Sales Tax", "Property Tax", "Luxury Tax"],
+        "correct": ["Income Tax", "Corporate Tax", "Sales Tax", "Property Tax", "Luxury Tax"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which are types of investment risk?",
+        "choices": ["Market Risk", "Credit Risk", "Liquidity Risk", "Operational Risk", "Inflation Risk"],
+        "correct": ["Market Risk", "Credit Risk", "Liquidity Risk", "Operational Risk", "Inflation Risk"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which of these are continents?",
+        "choices": ["Africa", "Asia", "Europe", "North America", "Greenland", "Antarctica"],
+        "correct": ["Africa", "Asia", "Europe", "North America", "Antarctica"],
+        "mode": "multiple",
+        "tags": ["general", "geography"]
+    },
+    {
+        "question": "Which of these are planets in our solar system?",
+        "choices": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto"],
+        "correct": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune"],
+        "mode": "multiple",
+        "tags": ["general", "astronomy"]
+    },
+    {
+        "question": "Which of these are programming paradigms?",
+        "choices": ["Object-Oriented", "Functional", "Procedural", "Logical", "Mechanical"],
+        "correct": ["Object-Oriented", "Functional", "Procedural", "Logical"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are renewable energy sources?",
+        "choices": ["Solar", "Wind", "Hydropower", "Coal", "Natural Gas", "Geothermal"],
+        "correct": ["Solar", "Wind", "Hydropower", "Geothermal"],
+        "mode": "multiple",
+        "tags": ["general", "environment"]
+    },
+    {
+        "question": "Which countries are part of the G7?",
+        "choices": ["USA", "UK", "Germany", "France", "Italy", "Canada", "Japan", "Russia"],
+        "correct": ["USA", "UK", "Germany", "France", "Italy", "Canada", "Japan"],
+        "mode": "multiple",
+        "tags": ["general", "economics"]
+    },
+    {
+        "question": "Which of these are rational numbers?",
+        "choices": ["1/2", "√2", "3", "π", "-5"],
+        "correct": ["1/2", "3", "-5"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of these are types of sequences?",
+        "choices": ["Arithmetic", "Geometric", "Harmonic", "Random"],
+        "correct": ["Arithmetic", "Geometric", "Harmonic"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of these are solutions of x² + 1 = 0?",
+        "choices": ["i", "-i", "1", "-1"],
+        "correct": ["i", "-i"],
+        "mode": "multiple",
+        "tags": ["math", "complex numbers"]
+    },
+    {
+        "question": "Which of these are prime numbers between 20 and 50?",
+        "choices": ["23", "29", "31", "33", "37", "41", "43", "47"],
+        "correct": ["23", "29", "31", "37", "41", "43", "47"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of the following are factors of 36?",
+        "choices": ["1", "2", "3", "4", "6", "9", "12", "18", "36"],
+        "correct": ["1", "2", "3", "4", "6", "9", "12", "18", "36"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of these are Pythagorean triples?",
+        "choices": ["6-8-10", "5-12-13", "7-24-25", "3-5-7"],
+        "correct": ["6-8-10", "5-12-13", "7-24-25"],
+        "mode": "multiple",
+        "tags": ["math", "geometry"]
+    },
+    {
+        "question": "Which of these are even functions?",
+        "choices": ["f(x)=x²", "f(x)=cos(x)", "f(x)=sin(x)", "f(x)=x⁴"],
+        "correct": ["f(x)=x²", "f(x)=cos(x)", "f(x)=x⁴"],
+        "mode": "multiple",
+        "tags": ["math", "functions"]
+    },
+    {
+        "question": "Which of these are odd functions?",
+        "choices": ["f(x)=x", "f(x)=sin(x)", "f(x)=x³", "f(x)=cos(x)"],
+        "correct": ["f(x)=x", "f(x)=sin(x)", "f(x)=x³"],
+        "mode": "multiple",
+        "tags": ["math", "functions"]
+    },
+    {
+        "question": "Which of these are types of angles in a triangle?",
+        "choices": ["Acute", "Obtuse", "Right", "Straight"],
+        "correct": ["Acute", "Obtuse", "Right"],
+        "mode": "multiple",
+        "tags": ["math", "geometry"]
+    },
+    {
+        "question": "Which of these are solutions to the equation 3x - 9 = 0?",
+        "choices": ["3", "-3", "9", "0"],
+        "correct": ["3"],
+        "mode": "single",
+        "tags": ["math", "algebra"]
+    },
+    {
+        "question": "Which of these are SI units of energy?",
+        "choices": ["Joule", "Calorie", "Newton", "Watt"],
+        "correct": ["Joule", "Calorie"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are examples of kinetic energy?",
+        "choices": ["Moving car", "Falling ball", "Stretched spring", "Water behind a dam"],
+        "correct": ["Moving car", "Falling ball"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are scalar quantities?",
+        "choices": ["Mass", "Speed", "Velocity", "Force", "Temperature"],
+        "correct": ["Mass", "Speed", "Temperature"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are vector quantities?",
+        "choices": ["Displacement", "Velocity", "Acceleration", "Speed", "Distance"],
+        "correct": ["Displacement", "Velocity", "Acceleration"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are types of heat transfer?",
+        "choices": ["Conduction", "Convection", "Radiation", "Reflection"],
+        "correct": ["Conduction", "Convection", "Radiation"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are types of waves?",
+        "choices": ["Mechanical", "Electromagnetic", "Longitudinal", "Transverse", "Gravitational"],
+        "correct": ["Mechanical", "Electromagnetic", "Longitudinal", "Transverse", "Gravitational"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of the following are examples of simple machines?",
+        "choices": ["Lever", "Pulley", "Inclined plane", "Wheel and axle", "Screw"],
+        "correct": ["Lever", "Pulley", "Inclined plane", "Wheel and axle", "Screw"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which are types of forces?",
+        "choices": ["Friction", "Gravity", "Tension", "Centripetal", "Mass"],
+        "correct": ["Friction", "Gravity", "Tension", "Centripetal"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of the following are forms of energy?",
+        "choices": ["Kinetic", "Potential", "Thermal", "Chemical", "Magnetic"],
+        "correct": ["Kinetic", "Potential", "Thermal", "Chemical", "Magnetic"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are fundamental constants?",
+        "choices": ["Speed of light", "Gravitational constant", "Planck constant", "Boltzmann constant", "Avogadro number"],
+        "correct": ["Speed of light", "Gravitational constant", "Planck constant", "Boltzmann constant", "Avogadro number"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are Python data types?",
+        "choices": ["List", "Tuple", "Set", "Dictionary", "Array"],
+        "correct": ["List", "Tuple", "Set", "Dictionary"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which Python statements are used for loops?",
+        "choices": ["for", "while", "repeat", "do-while"],
+        "correct": ["for", "while"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are Python logical operators?",
+        "choices": ["and", "or", "not", "xor", "&&"],
+        "correct": ["and", "or", "not"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are Python string methods?",
+        "choices": ["split", "join", "replace", "append", "find"],
+        "correct": ["split", "join", "replace", "find"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of the following are supervised learning algorithms?",
+        "choices": ["Linear Regression", "Decision Tree", "Random Forest", "K-Means", "DBSCAN"],
+        "correct": ["Linear Regression", "Decision Tree", "Random Forest"],
+        "mode": "multiple",
+        "tags": ["datascience", "machinelearning"]
+    },
+    {
+        "question": "Which of these are unsupervised learning algorithms?",
+        "choices": ["K-Means", "Hierarchical Clustering", "DBSCAN", "Linear Regression", "Decision Tree"],
+        "correct": ["K-Means", "Hierarchical Clustering", "DBSCAN"],
+        "mode": "multiple",
+        "tags": ["datascience", "machinelearning"]
+    },
+    {
+        "question": "Which Python libraries are used for data visualization?",
+        "choices": ["Matplotlib", "Seaborn", "Plotly", "Pandas", "NumPy"],
+        "correct": ["Matplotlib", "Seaborn", "Plotly"],
+        "mode": "multiple",
+        "tags": ["datascience"]
+    },
+    {
+        "question": "Which of these are mutable data types in Python?",
+        "choices": ["List", "Tuple", "Set", "Dictionary", "String"],
+        "correct": ["List", "Set", "Dictionary"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which are types of financial statements?",
+        "choices": ["Income Statement", "Balance Sheet", "Cash Flow Statement", "Profit Ledger"],
+        "correct": ["Income Statement", "Balance Sheet", "Cash Flow Statement"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which are types of taxes?",
+        "choices": ["Income Tax", "Corporate Tax", "Property Tax", "Sales Tax", "Luxury Tax"],
+        "correct": ["Income Tax", "Corporate Tax", "Property Tax", "Sales Tax", "Luxury Tax"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which are key components of GDP?",
+        "choices": ["Consumption", "Investment", "Government Spending", "Net Exports", "Imports"],
+        "correct": ["Consumption", "Investment", "Government Spending", "Net Exports"],
+        "mode": "multiple",
+        "tags": ["finance", "economics"]
+    },
+    {
+        "question": "Which are types of investment risk?",
+        "choices": ["Market Risk", "Credit Risk", "Liquidity Risk", "Operational Risk", "Inflation Risk"],
+        "correct": ["Market Risk", "Credit Risk", "Liquidity Risk", "Operational Risk", "Inflation Risk"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which of these are continents?",
+        "choices": ["Africa", "Asia", "Europe", "North America", "South America", "Antarctica", "Australia", "Greenland"],
+        "correct": ["Africa", "Asia", "Europe", "North America", "South America", "Antarctica", "Australia"],
+        "mode": "multiple",
+        "tags": ["general", "geography"]
+    },
+    {
+        "question": "Which of these are planets in the solar system?",
+        "choices": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto"],
+        "correct": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune"],
+        "mode": "multiple",
+        "tags": ["general", "astronomy"]
+    },
+    {
+        "question": "Which countries are in the G7?",
+        "choices": ["USA", "UK", "Germany", "France", "Italy", "Canada", "Japan", "Russia"],
+        "correct": ["USA", "UK", "Germany", "France", "Italy", "Canada", "Japan"],
+        "mode": "multiple",
+        "tags": ["general", "economics"]
+    },
+    {
+        "question": "Which of these are programming paradigms?",
+        "choices": ["Object-Oriented", "Functional", "Procedural", "Logical", "Mechanical"],
+        "correct": ["Object-Oriented", "Functional", "Procedural", "Logical"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are renewable energy sources?",
+        "choices": ["Solar", "Wind", "Hydropower", "Coal", "Natural Gas", "Geothermal"],
+        "correct": ["Solar", "Wind", "Hydropower", "Geothermal"],
+        "mode": "multiple",
+        "tags": ["general", "environment"]
+    },
+    {
+        "question": "Which of these are types of numbers?",
+        "choices": ["Natural", "Whole", "Integer", "Rational", "Imaginary"],
+        "correct": ["Natural", "Whole", "Integer", "Rational", "Imaginary"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of these are types of triangles based on angles?",
+        "choices": ["Acute", "Right", "Obtuse", "Equilateral"],
+        "correct": ["Acute", "Right", "Obtuse"],
+        "mode": "multiple",
+        "tags": ["math", "geometry"]
+    },
+    {
+        "question": "Which of these are types of quadrilaterals?",
+        "choices": ["Square", "Rectangle", "Rhombus", "Trapezoid", "Pentagon"],
+        "correct": ["Square", "Rectangle", "Rhombus", "Trapezoid"],
+        "mode": "multiple",
+        "tags": ["math", "geometry"]
+    },
+    {
+        "question": "Which of these are perfect squares?",
+        "choices": ["4", "7", "9", "16", "18", "25"],
+        "correct": ["4", "9", "16", "25"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of these are multiples of 5?",
+        "choices": ["5", "10", "12", "15", "20", "23"],
+        "correct": ["5", "10", "15", "20"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of these are forms of energy?",
+        "choices": ["Kinetic", "Potential", "Thermal", "Chemical", "Magnetic", "Pressure"],
+        "correct": ["Kinetic", "Potential", "Thermal", "Chemical", "Magnetic"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are fundamental forces?",
+        "choices": ["Gravity", "Electromagnetic", "Strong Nuclear", "Weak Nuclear", "Friction"],
+        "correct": ["Gravity", "Electromagnetic", "Strong Nuclear", "Weak Nuclear"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are vector quantities?",
+        "choices": ["Velocity", "Speed", "Acceleration", "Distance", "Displacement"],
+        "correct": ["Velocity", "Acceleration", "Displacement"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are scalar quantities?",
+        "choices": ["Mass", "Speed", "Temperature", "Velocity", "Force"],
+        "correct": ["Mass", "Speed", "Temperature"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are types of waves?",
+        "choices": ["Mechanical", "Electromagnetic", "Longitudinal", "Transverse", "Gravitational"],
+        "correct": ["Mechanical", "Electromagnetic", "Longitudinal", "Transverse", "Gravitational"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are Python data types?",
+        "choices": ["List", "Tuple", "Set", "Dictionary", "Array", "Stack"],
+        "correct": ["List", "Tuple", "Set", "Dictionary"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are Python immutable types?",
+        "choices": ["String", "Tuple", "Integer", "List", "Set"],
+        "correct": ["String", "Tuple", "Integer"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which Python statements are used for loops?",
+        "choices": ["for", "while", "do-while", "repeat"],
+        "correct": ["for", "while"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are Python logical operators?",
+        "choices": ["and", "or", "not", "xor", "&&"],
+        "correct": ["and", "or", "not"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which Python libraries are used for data visualization?",
+        "choices": ["Matplotlib", "Seaborn", "Plotly", "Pandas", "NumPy"],
+        "correct": ["Matplotlib", "Seaborn", "Plotly"],
+        "mode": "multiple",
+        "tags": ["datascience"]
+    },
+    {
+        "question": "Which of these are supervised learning algorithms?",
+        "choices": ["Linear Regression", "Decision Tree", "Random Forest", "K-Means", "DBSCAN"],
+        "correct": ["Linear Regression", "Decision Tree", "Random Forest"],
+        "mode": "multiple",
+        "tags": ["datascience", "machinelearning"]
+    },
+    {
+        "question": "Which of these are unsupervised learning algorithms?",
+        "choices": ["K-Means", "Hierarchical Clustering", "DBSCAN", "Linear Regression", "Decision Tree"],
+        "correct": ["K-Means", "Hierarchical Clustering", "DBSCAN"],
+        "mode": "multiple",
+        "tags": ["datascience", "machinelearning"]
+    },
+    {
+        "question": "Which of these are mutable data types in Python?",
+        "choices": ["List", "Tuple", "Set", "Dictionary", "String"],
+        "correct": ["List", "Set", "Dictionary"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which are types of financial markets?",
+        "choices": ["Stock Market", "Bond Market", "Money Market", "Commodity Market", "Weather Market"],
+        "correct": ["Stock Market", "Bond Market", "Money Market", "Commodity Market"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which of these are types of taxes?",
+        "choices": ["Income Tax", "Corporate Tax", "Sales Tax", "Property Tax", "Luxury Tax"],
+        "correct": ["Income Tax", "Corporate Tax", "Sales Tax", "Property Tax", "Luxury Tax"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which are common components of GDP?",
+        "choices": ["Consumption", "Investment", "Government Spending", "Net Exports", "Imports"],
+        "correct": ["Consumption", "Investment", "Government Spending", "Net Exports"],
+        "mode": "multiple",
+        "tags": ["finance", "economics"]
+    },
+    {
+        "question": "Which are types of investment risk?",
+        "choices": ["Market Risk", "Credit Risk", "Liquidity Risk", "Operational Risk", "Inflation Risk"],
+        "correct": ["Market Risk", "Credit Risk", "Liquidity Risk", "Operational Risk", "Inflation Risk"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which of these are continents?",
+        "choices": ["Africa", "Asia", "Europe", "North America", "South America", "Antarctica", "Australia", "Greenland"],
+        "correct": ["Africa", "Asia", "Europe", "North America", "South America", "Antarctica", "Australia"],
+        "mode": "multiple",
+        "tags": ["general", "geography"]
+    },
+    {
+        "question": "Which of these are planets in the solar system?",
+        "choices": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto"],
+        "correct": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune"],
+        "mode": "multiple",
+        "tags": ["general", "astronomy"]
+    },
+    {
+        "question": "Which countries are in the G7?",
+        "choices": ["USA", "UK", "Germany", "France", "Italy", "Canada", "Japan", "Russia"],
+        "correct": ["USA", "UK", "Germany", "France", "Italy", "Canada", "Japan"],
+        "mode": "multiple",
+        "tags": ["general", "economics"]
+    },
+    {
+        "question": "Which of these are programming paradigms?",
+        "choices": ["Object-Oriented", "Functional", "Procedural", "Logical", "Mechanical"],
+        "correct": ["Object-Oriented", "Functional", "Procedural", "Logical"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are renewable energy sources?",
+        "choices": ["Solar", "Wind", "Hydropower", "Coal", "Natural Gas", "Geothermal"],
+        "correct": ["Solar", "Wind", "Hydropower", "Geothermal"],
+        "mode": "multiple",
+        "tags": ["general", "environment"]
+    },
+    {
+        "question": "Which of these are irrational numbers?",
+        "choices": ["√2", "π", "1/3", "e", "4"],
+        "correct": ["√2", "π", "e"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of the following are factors of 48?",
+        "choices": ["1", "2", "3", "4", "6", "8", "12", "16", "24", "48", "9"],
+        "correct": ["1", "2", "3", "4", "6", "8", "12", "16", "24", "48"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of these are multiples of 7?",
+        "choices": ["7", "14", "21", "28", "30", "35"],
+        "correct": ["7", "14", "21", "28", "35"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of these are solutions to x² - 16 = 0?",
+        "choices": ["4", "-4", "16", "-16", "0"],
+        "correct": ["4", "-4"],
+        "mode": "multiple",
+        "tags": ["math", "algebra"]
+    },
+    {
+        "question": "Which of these are prime numbers between 50 and 100?",
+        "choices": ["53", "57", "59", "61", "67", "71", "73", "79", "83", "89", "97", "99"],
+        "correct": ["53", "59", "61", "67", "71", "73", "79", "83", "89", "97"],
+        "mode": "multiple",
+        "tags": ["math"]
+    },
+    {
+        "question": "Which of these are units of force?",
+        "choices": ["Newton", "Dyne", "Joule", "Watt", "Pascal"],
+        "correct": ["Newton", "Dyne"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are types of energy?",
+        "choices": ["Kinetic", "Potential", "Thermal", "Chemical", "Magnetic", "Sound"],
+        "correct": ["Kinetic", "Potential", "Thermal", "Chemical", "Magnetic", "Sound"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are types of waves?",
+        "choices": ["Mechanical", "Electromagnetic", "Longitudinal", "Transverse", "Gravitational"],
+        "correct": ["Mechanical", "Electromagnetic", "Longitudinal", "Transverse", "Gravitational"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are scalar quantities?",
+        "choices": ["Mass", "Speed", "Temperature", "Velocity", "Force", "Distance"],
+        "correct": ["Mass", "Speed", "Temperature", "Distance"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are vector quantities?",
+        "choices": ["Velocity", "Acceleration", "Displacement", "Speed", "Mass"],
+        "correct": ["Velocity", "Acceleration", "Displacement"],
+        "mode": "multiple",
+        "tags": ["physics"]
+    },
+    {
+        "question": "Which of these are Python built-in data structures?",
+        "choices": ["List", "Tuple", "Set", "Dictionary", "Queue", "Stack"],
+        "correct": ["List", "Tuple", "Set", "Dictionary"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are Python immutable types?",
+        "choices": ["String", "Tuple", "Integer", "List", "Set", "Dictionary"],
+        "correct": ["String", "Tuple", "Integer"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which Python statements are used for conditional branching?",
+        "choices": ["if", "else", "elif", "for", "while"],
+        "correct": ["if", "else", "elif"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are Python logical operators?",
+        "choices": ["and", "or", "not", "xor", "&&"],
+        "correct": ["and", "or", "not"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these Python libraries are used for data analysis?",
+        "choices": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
+        "correct": ["Pandas", "NumPy"],
+        "mode": "multiple",
+        "tags": ["datascience"]
+    },
+    {
+        "question": "Which of these are supervised machine learning algorithms?",
+        "choices": ["Linear Regression", "Decision Tree", "Random Forest", "K-Means", "DBSCAN"],
+        "correct": ["Linear Regression", "Decision Tree", "Random Forest"],
+        "mode": "multiple",
+        "tags": ["datascience", "machinelearning"]
+    },
+    {
+        "question": "Which of these are unsupervised machine learning algorithms?",
+        "choices": ["K-Means", "Hierarchical Clustering", "DBSCAN", "Linear Regression", "Decision Tree"],
+        "correct": ["K-Means", "Hierarchical Clustering", "DBSCAN"],
+        "mode": "multiple",
+        "tags": ["datascience", "machinelearning"]
+    },
+    {
+        "question": "Which of these are mutable Python types?",
+        "choices": ["List", "Set", "Dictionary", "Tuple", "String", "Integer"],
+        "correct": ["List", "Set", "Dictionary"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which are types of financial statements?",
+        "choices": ["Income Statement", "Balance Sheet", "Cash Flow Statement", "Profit Ledger"],
+        "correct": ["Income Statement", "Balance Sheet", "Cash Flow Statement"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which are types of taxes?",
+        "choices": ["Income Tax", "Corporate Tax", "Sales Tax", "Property Tax", "Luxury Tax"],
+        "correct": ["Income Tax", "Corporate Tax", "Sales Tax", "Property Tax", "Luxury Tax"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which are key components of GDP?",
+        "choices": ["Consumption", "Investment", "Government Spending", "Net Exports", "Imports"],
+        "correct": ["Consumption", "Investment", "Government Spending", "Net Exports"],
+        "mode": "multiple",
+        "tags": ["finance", "economics"]
+    },
+    {
+        "question": "Which are types of investment risk?",
+        "choices": ["Market Risk", "Credit Risk", "Liquidity Risk", "Operational Risk", "Inflation Risk"],
+        "correct": ["Market Risk", "Credit Risk", "Liquidity Risk", "Operational Risk", "Inflation Risk"],
+        "mode": "multiple",
+        "tags": ["finance"]
+    },
+    {
+        "question": "Which of these are continents?",
+        "choices": ["Africa", "Asia", "Europe", "North America", "South America", "Antarctica", "Australia", "Greenland"],
+        "correct": ["Africa", "Asia", "Europe", "North America", "South America", "Antarctica", "Australia"],
+        "mode": "multiple",
+        "tags": ["general", "geography"]
+    },
+    {
+        "question": "Which of these are planets in the solar system?",
+        "choices": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto"],
+        "correct": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune"],
+        "mode": "multiple",
+        "tags": ["general", "astronomy"]
+    },
+    {
+        "question": "Which countries are in the G7?",
+        "choices": ["USA", "UK", "Germany", "France", "Italy", "Canada", "Japan", "Russia"],
+        "correct": ["USA", "UK", "Germany", "France", "Italy", "Canada", "Japan"],
+        "mode": "multiple",
+        "tags": ["general", "economics"]
+    },
+    {
+        "question": "Which of these are programming paradigms?",
+        "choices": ["Object-Oriented", "Functional", "Procedural", "Logical", "Mechanical"],
+        "correct": ["Object-Oriented", "Functional", "Procedural", "Logical"],
+        "mode": "multiple",
+        "tags": ["programming"]
+    },
+    {
+        "question": "Which of these are renewable energy sources?",
+        "choices": ["Solar", "Wind", "Hydropower", "Coal", "Natural Gas", "Geothermal"],
+        "correct": ["Solar", "Wind", "Hydropower", "Geothermal"],
+        "mode": "multiple",
+        "tags": ["general", "environment"]
+    }
+]
